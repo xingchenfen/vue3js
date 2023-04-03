@@ -1,0 +1,13 @@
+{
+	"semi": true,
+	"singleQuote": true,
+	"useTabs": true,
+	"tabWidth": 2,
+	"printWidth": 80,
+	"trailingComma": "none",
+	"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"vetur.format.defaultFormatter.js": "vscode-typescript",
+	"eslintIntegration": true,
+	"htmlWhitespaceSensitivity": "ignore",
+	"endOfLine": "auto"
+}
